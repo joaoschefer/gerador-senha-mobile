@@ -57,9 +57,9 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 ---
 
 ## 🖼️ Imagens do App
-![Home](/imagensapp/home.jpeg)
-![Senha gerada](/imagensapp/senhagerada.jpeg)
-![Senhas armazenadas](/imagensapp/senhas.jpeg)
+<img src="/imagensapp/home.jpeg" alt="Home" style="width: 300px; margin-right: 10px;"/>
+<img src="/imagensapp/senhagerada.jpeg" alt="Senha gerada" style="width: 300px; margin-right: 10px;"/>
+<img src="/imagensapp/senhas.jpeg" alt="Senhas armazenadas" style="width: 300px;"/>
 
 ---
 
