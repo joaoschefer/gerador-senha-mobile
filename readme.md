@@ -56,6 +56,13 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 
 ---
 
+## 🖼️ Imagens do App
+![Home](/imagensapp/home.jpeg)
+![Senha gerada](/imagensapp/senhagerada.jpeg)
+![Senhas armazenadas](/imagensapp/senhas.jpeg)
+
+---
+
 ## 🛠️ Scripts disponíveis
 
 | Comandos               | Descrição                              |
