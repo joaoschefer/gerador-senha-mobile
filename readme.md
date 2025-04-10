@@ -50,7 +50,7 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 | `src/pages/home/index.js`              | Tela inicial onde o usuário gera a senha.                              |
 | `src/pages/passwords/index.js`         | Tela que lista todas as senhas salvas.                                 |
 | `src/pages/passwords/components/`      | Contém o componente `PasswordItem` que exibe cada senha.               |
-| `src/components/modal/`                | (Provavelmente) componentes modais reutilizáveis.                      |
+| `src/components/modal/`                | Componentes modais reutilizáveis.                                      |
 | `App.js`                               | Ponto de entrada da aplicação.                                         |
 | `routes.js`                            | Configuração das rotas e navegação entre as páginas.                   |
 
@@ -58,7 +58,7 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 
 ## 🛠️ Scripts disponíveis
 
-| Script                 | Descrição                              |
+| Comandos               | Descrição                              |
 |------------------------|----------------------------------------|
 | `npx expo start`       | Inicia o app com Expo.                 |
 
