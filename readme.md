@@ -1,10 +1,10 @@
-# 📱 Projeto: Gerador de Senhas Mobile
+# Projeto: Gerador de Senhas Mobile
 
 Este projeto é um app mobile desenvolvido com **React Native via Expo**, que permite ao usuário gerar, salvar e visualizar senhas de forma simples e segura. As senhas são armazenadas localmente no dispositivo usando `AsyncStorage`.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React Native + Expo**  
   Framework para desenvolvimento de aplicativos mobile multiplataforma (Android/iOS), com suporte nativo via Expo.
@@ -23,7 +23,7 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 
 ---
 
-## 📦 Dependências instaladas
+## Dependências instaladas
 
 | Pacote                                      | Descrição                                                                                  |
 |---------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 | Pasta / Arquivo                        | Função                                                                 |
 |----------------------------------------|------------------------------------------------------------------------|
@@ -56,7 +56,7 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 
 ---
 
-## 🖼️ Imagens do App
+## Imagens do App
 <div style="display: flex; gap: 10px;">
   <img src="/imagensapp/home.jpeg" alt="Home" width="250"/>
   <img src="/imagensapp/senhagerada.jpeg" alt="Senha gerada" width="250"/>
@@ -65,7 +65,7 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 
 ---
 
-## 🛠️ Scripts disponíveis
+## Scripts disponíveis
 
 | Comandos               | Descrição                              |
 |------------------------|----------------------------------------|
@@ -73,7 +73,7 @@ Este projeto é um app mobile desenvolvido com **React Native via Expo**, que pe
 
 ---
 
-## 📌 Observações
+## Observações
 
 - As senhas são armazenadas no dispositivo, ou seja, não há necessidade de conexão com internet.
 - O app já está preparado para Android, iOS e Web (via `react-native-web`).
